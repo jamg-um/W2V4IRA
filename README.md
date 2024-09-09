@@ -22,6 +22,7 @@ In order to generate new models you will need to provide the snomed ct full rela
 - SCT_model_Skip.model
 
 # Acknowledgemnts
-This reposity contains work done during the research stay of Jose Antonio Miñarro Giménez at Shulz' group at the department of Medical informatics, statistics and documentation (Medical University of Graz).
-Este trabajo es resultado de la estancia 22205/EE/23 financiada por la Fundación Séneca-Agencia de Ciencia y Tecnología de la Región de Murcia (https://www.fseneca.es/) con cargo al Programa Regional de Movilidad, Colaboración e Intercambio de Conocimiento “Jiménez de la Espada”.
+- This reposity contains work done during the research stay of Jose Antonio Miñarro Giménez at Stefan Schulz's group at the department of Medical informatics, statistics and documentation (Medical University of Graz).
+
+- Este trabajo es resultado de la estancia 22205/EE/23 financiada por la Fundación Séneca-Agencia de Ciencia y Tecnología de la Región de Murcia (https://www.fseneca.es/) con cargo al Programa Regional de Movilidad, Colaboración e Intercambio de Conocimiento “Jiménez de la Espada”.
 ![Fundación Séneca](https://www.fseneca.es/web/sites/all/themes/fuse17/img/fseneca-color.svg)
