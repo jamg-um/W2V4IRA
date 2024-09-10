@@ -26,3 +26,4 @@ In order to generate new models you will need to provide the snomed ct full rela
 
 - Este trabajo es resultado de la estancia 22205/EE/23 financiada por la Fundación Séneca-Agencia de Ciencia y Tecnología de la Región de Murcia (https://www.fseneca.es/) con cargo al Programa Regional de Movilidad, Colaboración e Intercambio de Conocimiento “Jiménez de la Espada”.
 ![Fundación Séneca](https://www.fseneca.es/web/sites/all/themes/fuse17/img/fseneca-color.svg)
+![Región de Murcia](https://www.carm.es/web/imagen?ALIAS=IMGR4&IDIMAGEN=9074)
